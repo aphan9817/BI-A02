@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\d3man\\source\\repos\\QueueReader\\",
+  "WorkspaceRootPath": "C:\\Users\\d3man\\OneDrive\\Documents\\GitHub\\BI-A02\\QueueReader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3E25ABC-1F8C-4F7F-8CFA-D1BB6ED85D5C}|QueueReader\\QueueReader.csproj|c:\\users\\d3man\\source\\repos\\queuereader\\queuereader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3E25ABC-1F8C-4F7F-8CFA-D1BB6ED85D5C}|QueueReader\\QueueReader.csproj|c:\\users\\d3man\\onedrive\\documents\\github\\bi-a02\\queuereader\\queuereader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E25ABC-1F8C-4F7F-8CFA-D1BB6ED85D5C}|QueueReader\\QueueReader.csproj|solutionrelative:queuereader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E25ABC-1F8C-4F7F-8CFA-D1BB6ED85D5C}|QueueReader\\QueueReader.csproj|C:\\Users\\d3man\\source\\repos\\QueueReader\\queuereader\\yoyomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3E25ABC-1F8C-4F7F-8CFA-D1BB6ED85D5C}|QueueReader\\QueueReader.csproj|C:\\Users\\d3man\\OneDrive\\Documents\\GitHub\\BI-A02\\QueueReader\\queuereader\\yoyomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E25ABC-1F8C-4F7F-8CFA-D1BB6ED85D5C}|QueueReader\\QueueReader.csproj|solutionrelative:queuereader\\yoyomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,22 +24,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "YoYoModel.cs",
-              "DocumentMoniker": "C:\\Users\\d3man\\source\\repos\\QueueReader\\QueueReader\\YoYoModel.cs",
+              "DocumentMoniker": "C:\\Users\\d3man\\OneDrive\\Documents\\GitHub\\BI-A02\\QueueReader\\QueueReader\\YoYoModel.cs",
               "RelativeDocumentMoniker": "QueueReader\\YoYoModel.cs",
-              "ToolTip": "C:\\Users\\d3man\\source\\repos\\QueueReader\\QueueReader\\YoYoModel.cs",
+              "ToolTip": "C:\\Users\\d3man\\OneDrive\\Documents\\GitHub\\BI-A02\\QueueReader\\QueueReader\\YoYoModel.cs",
               "RelativeToolTip": "QueueReader\\YoYoModel.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAowAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T19:22:02.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T19:22:02.636Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\d3man\\source\\repos\\QueueReader\\QueueReader\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\d3man\\OneDrive\\Documents\\GitHub\\BI-A02\\QueueReader\\QueueReader\\Program.cs",
               "RelativeDocumentMoniker": "QueueReader\\Program.cs",
-              "ToolTip": "C:\\Users\\d3man\\source\\repos\\QueueReader\\QueueReader\\Program.cs",
+              "ToolTip": "C:\\Users\\d3man\\OneDrive\\Documents\\GitHub\\BI-A02\\QueueReader\\QueueReader\\Program.cs",
               "RelativeToolTip": "QueueReader\\Program.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAiwLEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
